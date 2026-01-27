@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my 4th year of B.Tech AI degree.<br>I'm looking to collaborate on AI-ML projects <br>I'm looking for internships <br>I'm currently focused on exploring GenAI and cloud<br>Ask me about anything related to AI, and I will try to get you a correct answer <br>A fun fact about me is that i started developing an interest in AI after watching Terminator
+I'm currently in my 4th year of B.Tech AI degree.<br>I'm looking to collaborate on AI-ML projects <br>I'm doing an internship at Narola AI Studio as a AI and ML Intern <br>I'm currently focused on exploring GenAI and cloud<br>Ask me about anything related to AI, and I will try to get you a correct answer <br>A fun fact about me is that i started developing an interest in AI after watching Terminator
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I'm currently in my 4th year of B.Tech AI degree.<br>I'm looking to collaborate 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhupmaps&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhupmaps&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Vercel](https://github-profile-trophy.vercel.app/?username=Dhupmaps&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
