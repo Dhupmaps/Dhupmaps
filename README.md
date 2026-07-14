@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my 4th year of B.Tech AI degree.<br>I'm looking to collaborate on AI-ML projects <br>I'm doing an internship at Narola AI Studio as a AI and ML Intern <br>I'm currently focused on exploring GenAI and cloud<br>Ask me about anything related to AI, and I will try to get you a correct answer <br>A fun fact about me is that i started developing an interest in AI after watching Terminator
+I'm a graduate in B.Tech AI degree.<br>I'm looking to collaborate on AI-ML projects <br>My last job was at Narola AI Studio <br>I'm currently focused on exploring GenAI and cloud<br>Ask me about anything related to AI, and I will try to get you a correct answer <br>A fun fact about me is that I started developing an interest in AI after watching Terminator
 
 
 ## 🌐 Socials:
